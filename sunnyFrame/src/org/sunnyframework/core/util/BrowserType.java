@@ -2,7 +2,7 @@ package org.sunnyframework.core.util;
 
 /**
  * 
- * @author  sunyard
+ * @author  sunyard  test
  *
  */
 public enum BrowserType {
