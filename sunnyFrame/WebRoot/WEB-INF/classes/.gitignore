@@ -1,0 +1,16 @@
+/CKfinderConfig.xml
+/cxf-servlet.xml
+/dbconfig.properties
+/ehcache.xml
+/export/
+/log4j.properties
+/logback.xml
+/org/
+/spring-minidao.xml
+/spring-mvc-aop.xml
+/spring-mvc-context.xml
+/spring-mvc-hibernate.xml
+/spring-mvc-timeTask.xml
+/spring-mvc.xml
+/sysConfig.properties
+/velocity.properties
